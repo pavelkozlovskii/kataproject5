@@ -213,6 +213,11 @@ a {
     background: url("../third maket/images/expand.png");
   }
 
+  .brands-slider__swiper-wrapper{
+    overflow: hidden !important;
+    height: 160px !important;
+  }
+
   @media (min-width: 768px) {
     .container {
       padding: 0 24px !important;
